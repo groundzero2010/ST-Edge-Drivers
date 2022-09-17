@@ -1,0 +1,7 @@
+zwaveManufacturer:
+  - id: "0063/4450/3030"
+    deviceLabel: Ecolink ZW Door/Window Sensor
+    manufacturerId: 0x014A
+    productType: 0x0004
+    productId: 0x0002
+    deviceProfileName: st-ecolink-door-window-sensor
