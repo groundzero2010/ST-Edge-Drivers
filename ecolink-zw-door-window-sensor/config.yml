@@ -1,0 +1,4 @@
+name: 'Ecolink Z-Wave Door/Window Sensor'
+packageKey: 'ecolink-zwave-door-window-sensor'
+permissions:
+  zwave: {}
