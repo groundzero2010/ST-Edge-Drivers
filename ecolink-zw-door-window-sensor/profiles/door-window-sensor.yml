@@ -1,0 +1,16 @@
+--Based on Smarthings zwave-sensor / profiles / contact-battery-tamperalert.yml
+
+name: door-window-sensor
+components:
+- id: main
+  capabilities:
+  - id: contactSensor
+    version: 1
+  - id: battery
+    version: 1
+  - id: tamperAlert
+    version: 1
+  - id: refresh
+    version: 1
+  categories:
+  - name: ContactSensor
